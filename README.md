@@ -91,7 +91,7 @@ This program:
 - `if-else` logic
 - boolean flags
 
----
+
 
 ### 2. Income Tax Calculator
 This program:
@@ -106,7 +106,7 @@ This program:
 - conditional tax bracket logic
 - formatted output
 
----
+
 
 ### 3. Salary Multiplier Calculator
 This program:
