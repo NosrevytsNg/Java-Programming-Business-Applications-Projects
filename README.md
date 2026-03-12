@@ -1,6 +1,7 @@
 # ☕ Java Programming Business Application Projects
 
 A collection of three introductory Java console applications developed to demonstrate core programming fundamentals, business-rule implementation, file processing, input validation, and conditional logic. <br>
+
 This repository showcases beginner-friendly Java programs that solve practical business-style problems through command-line interaction and structured program flow. <br>
 
 ## Project Overview
