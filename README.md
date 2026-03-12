@@ -16,7 +16,7 @@ This repository contains three standalone Java applications:
 3. **Salary Multiplier Calculator**  
    Reads employee salary and performance data from a text file, accepts company performance input, and computes employee bonus values using performance-based multipliers.
 
-## Key Skills Demonstrated
+### Key Skills Demonstrated
 
 - Java syntax and program structure
 - Conditional statements and decision-making
@@ -27,10 +27,10 @@ This repository contains three standalone Java applications:
 - Console-based output formatting
 - Working with multiple standalone Java programs in one repository
 
-## Repository Structure
+### Repository Structure
 
 ```text
-Java-Console-Business-Applications/
+Java-Programming-Business-Application-Projects/
 │
 ├── README.md
 ├── .gitignore
@@ -50,6 +50,29 @@ Java-Console-Business-Applications/
 │   └── ICS Assignment Rubric.pdf
 │
 └── images/
+    ├── q1-delivery-algorithm/
+    │   ├── Delivery Algorithm Code.png
+    │   ├── First Data Set.png
+    │   ├── Second Data Set.png
+    │   └── Third Data Set [Unsuccesful].png
+    │
+    ├── q2-income-tax-calculator/
+    │   ├── Income Tax Data Set 1.png
+    │   ├── Income Tax Data Set 2.png
+    │   ├── Income Tax Data Set 3.png
+    │   ├── IncomeTaxCalculator - Test Case 1.png
+    │   ├── IncomeTaxCalculator - Test Case 2.png
+    │   ├── IncomeTaxCalculator - Test Case 3.png
+    │   └── IncomeTaxCalculator -Code.png
+    │
+    └── q3-salary-multiplier-calculator/
+        ├── SalaryMultiplierCalculator - Output.png
+        ├── SalaryMultiplierCalculator - Output 1.png
+        ├── SalaryMultiplierCalculator - Output 2.png
+        ├── SalaryMultiplierCalculator - Output 3.png
+        ├── SalaryMultiplierCalculator Code 1.png
+        ├── SalaryMultiplierCalculator Code 2.png
+        └── SalaryMultiplierData Data Set.png
 ```
 
 ## Applications
@@ -149,50 +172,6 @@ This repository was created as part of an introductory Java programming assignme
 - Add unit testing for calculation logic
 
 
-### Repo Structure
-Java-Programming-Business-Application-Projects/
-│
-├── README.md
-├── .gitignore
-│
-├── src/
-│   ├── DeliveryAlgorithm.java
-│   ├── IncomeTaxCalculator.java
-│   └── SalaryMultiplierCalculator.java
-│
-├── data/
-│   ├── IncomeTax.txt
-│   └── SalaryMultiplierData.txt
-│
-├── docs/
-│   ├── ICS Assignment.pdf
-│   ├── ICS Main Assignment.pdf
-│   └── ICS Assignment Rubric.pdf
-│
-└── images/
-    ├── q1-delivery-algorithm/
-    │   ├── Delivery Algorithm Code.png
-    │   ├── First Data Set.png
-    │   ├── Second Data Set.png
-    │   └── Third Data Set [Unsuccesful].png
-    │
-    ├── q2-income-tax-calculator/
-    │   ├── Income Tax Data Set 1.png
-    │   ├── Income Tax Data Set 2.png
-    │   ├── Income Tax Data Set 3.png
-    │   ├── IncomeTaxCalculator - Test Case 1.png
-    │   ├── IncomeTaxCalculator - Test Case 2.png
-    │   ├── IncomeTaxCalculator - Test Case 3.png
-    │   └── IncomeTaxCalculator -Code.png
-    │
-    └── q3-salary-multiplier-calculator/
-        ├── SalaryMultiplierCalculator - Output.png
-        ├── SalaryMultiplierCalculator - Output 1.png
-        ├── SalaryMultiplierCalculator - Output 2.png
-        ├── SalaryMultiplierCalculator - Output 3.png
-        ├── SalaryMultiplierCalculator Code 1.png
-        ├── SalaryMultiplierCalculator Code 2.png
-        └── SalaryMultiplierData Data Set.png
 
 ## 🖋️ Author
 
