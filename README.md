@@ -1,15 +1,11 @@
 # ☕ Java Programming Business Application Projects
 
-# Java Console Business Applications
-
 A collection of three introductory Java console applications developed to demonstrate core programming fundamentals, business-rule implementation, file processing, input validation, and conditional logic.
-
 This repository showcases beginner-friendly Java programs that solve practical business-style problems through command-line interaction and structured program flow.
 
 ## Project Overview
 
 This repository contains three standalone Java applications:
-
 1. **Delivery Algorithm**  
    Calculates parcel delivery cost based on parcel weight, pickup postal code, delivery postal code, and whether the locations fall within CBD zones.
 
