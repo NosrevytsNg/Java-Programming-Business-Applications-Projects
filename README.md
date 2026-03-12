@@ -122,56 +122,9 @@ This program:
 - integer and double calculations
 - formatted result printing
 
-## Notes
-
-Some of the original Java files were written with absolute local file paths for text-file input.  
-For portability, these should be updated to relative paths when running the project on another machine.
-
-For example, instead of using a machine-specific path, the programs can be adjusted to read from files inside the local `data/` folder.
-
-## How to Run
-
-1. Clone this repository.
-2. Open the project in your preferred Java IDE or code editor.
-3. Make sure Java is installed.
-4. Compile and run any of the files inside the `src/` folder.
-
-Example:
-
-```bash
-javac src/DeliveryAlgorithm.java
-java -cp src DeliveryAlgorithm
-```
-
-For file-based programs, ensure the input text files are available and that file paths in the code are updated if necessary.
-
-## Screenshots and Supporting Material
-
-The `images/` folder contains:
-- code screenshots
-- test case screenshots
-- dataset screenshots
-- output screenshots
-
-The `docs/` folder contains:
-- assignment brief
-- main assignment document
-- rubric
-
-## Purpose of This Repository
+### Purpose of This Repository
 
 This repository was created as part of an introductory Java programming assignment and has been reorganized into a cleaner GitHub portfolio format to better showcase programming fundamentals and early software development work.
-
-## Future Improvements
-
-- Refactor all file paths to relative paths
-- Separate repeated logic into reusable methods
-- Improve variable naming consistency
-- Add stronger exception handling
-- Convert the three standalone programs into a menu-driven application
-- Add unit testing for calculation logic
-
-
 
 ## 🖋️ Author
 
